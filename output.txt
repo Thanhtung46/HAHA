@@ -1,0 +1,4 @@
+I'm a student.
+0.14286
+The sum of 1 and 1 is: 2
+Hôm nay trời đẹp.
